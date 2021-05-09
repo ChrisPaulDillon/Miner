@@ -1,0 +1,5 @@
+:: Example batch file for mining TRT at a pool
+
+cd %~dp0
+xmrig.exe -o trtl.pool.mine2gether.com:3335 -a argon2/chukwav2 -u TRTLuzFUFPNKJYNBxjTq6qhVb7Pvmze5eZr8tGdDznHw2wdDYsgcVvqCGfdfG946WkTSLcFtqBLmTWX2N1HsNA3448LjtAqDihf
+pause
