@@ -1,6 +1,6 @@
 @echo OFF
 REM Change the following address to your BEAM addr.
-SET ADDRESS=3a13205ec464807c9400f0fde8d56ac49da03bb3812055f08844fe2eaf0b9166
+SET ADDRESS=2c9545e2691f762aac969031758bbfa0b3414383e0d8624c01ca8cdb7e78654b099
 SET USERNAME=%ADDRESS%.w
 SET POOL=eu1-beam.flypool.org:3443
 SET SCHEME=beamhash3+ssl
