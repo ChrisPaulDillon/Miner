@@ -1,5 +1,5 @@
 :: Example batch file for mining UPX at a pool
 
 cd %~dp0
-xmrig.exe -o pool.minexmr.com:4444 -u 47GfwoYXpdBe3i9GaocZHHX4yktQW2nk3S8tS9uK7aPGBDDZ6pVXWX9KkJ2RhT39rcL9txXpKTG7b5kZ8emSe5A2G2X7QWv --threads 28
+xmrig.exe -o pool.minexmr.com:4444 -u 4Akr9YPiXFmgYhPSTdJwjqEzTyNgaFPYg4p6L6jtAPWmPeSmv8S5fHoVeRPptDEDKnBZ4TdPeJwtFb8EENWzqDme9bTycwb --threads 28
 pause
